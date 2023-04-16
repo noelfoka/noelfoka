@@ -12,7 +12,7 @@
 - Email : nomgnenoel@gmail.com
 - Twitter : [Nomgne-noel](https://twitter.com/noelnomgne)
 - Linkdin : [noel-foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
-- Portfolio : [noel-foka.com](https://noelfoka.github.io)
+- Portfolio : [noel-foka.com](https://noelfoka.github.io/portfolio-version/)
 
 - 🌱 I’m currently learning full stack software development
 
