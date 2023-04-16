@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png)](https://rishavchanda.io)
+[![MasterHead](https://www.altamira.ai/wp-content/uploads/2022/12/Full-Stack-DeveloperArtboard-2.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Noel Foka</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
