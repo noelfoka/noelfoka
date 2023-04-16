@@ -9,10 +9,10 @@
 
 ### 📫 How to reach me
 
-- Email : abenezeraddisu24@gmail.com
+- Email : nomgnenoel@gmail.com
 - Twitter : [Nomgne-noel](https://twitter.com/nomgnenoel)
 - Linkdin : [noel-foka](https://www.linkedin.com/in/noelfoka)
-- Portfolio : [abenezer-addisu.com](https://noelfoka.github.io)
+- Portfolio : [noel-foka.com](https://noelfoka.github.io)
 
 - 🌱 I’m currently learning full stack software development
 
