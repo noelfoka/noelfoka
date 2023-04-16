@@ -10,7 +10,7 @@
 ### 📫 How to reach me
 
 - Email : nomgnenoel@gmail.com
-- Twitter : [Nomgne-noel](https://twitter.com/nomgnenoel)
+- Twitter : [Nomgne-noel](https://twitter.com/noelnomgne)
 - Linkdin : [noel-foka](https://www.linkedin.com/in/noelfoka)
 - Portfolio : [noel-foka.com](https://noelfoka.github.io)
 
