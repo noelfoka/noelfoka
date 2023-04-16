@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezer-addisu&label=Profile%20views&color=0e75b6&style=flat" alt="abenezer-addisu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noelfoka&label=Profile%20views&color=0e75b6&style=flat" alt="noelfoka" /> </p>
 
 ### 📫 How to reach me
 
@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true&locale=en" alt="noelfoka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="abenezer-addisu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
