@@ -58,7 +58,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
       media="(prefers-color-scheme: no-preference), (prefers-color-scheme: no-preference)"
     />
-    <img width="1000" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
