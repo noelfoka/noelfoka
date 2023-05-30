@@ -62,7 +62,7 @@
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <p><img align="center" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
+  <p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
