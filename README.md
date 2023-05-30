@@ -62,6 +62,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true&locale=en" alt="noelfoka" /></p>
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true&locale=en" alt="noelfoka" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
