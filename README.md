@@ -49,7 +49,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelfoka&show_icons=true&locale=en&layout=compact" alt="noelfoka" /></p>-->
 <picture>
-<source
+<source align="right"
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: light)"
 />
