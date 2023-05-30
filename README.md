@@ -49,17 +49,27 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelfoka&show_icons=true&locale=en&layout=compact" alt="noelfoka" /></p>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: light)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: no-preference), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
 <picture>
-<source 
+<!--<source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: light)"
 />
@@ -68,7 +78,7 @@
   media="(prefers-color-scheme: no-preference), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture>-->
 
 
 
