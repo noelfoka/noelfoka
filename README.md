@@ -45,7 +45,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
 
-<br/>
+<!--<br/>-->
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelfoka&show_icons=true&locale=en&layout=compact" alt="noelfoka" /></p>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
