@@ -45,7 +45,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
 
-<!--<br/>-->
+<br/>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelfoka&show_icons=true&locale=en&layout=compact" alt="noelfoka" /></p>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -58,7 +58,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
       media="(prefers-color-scheme: no-preference), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
