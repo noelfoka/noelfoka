@@ -48,7 +48,7 @@
 <br/>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelfoka&show_icons=true&locale=en&layout=compact" alt="noelfoka" /></p>-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -60,7 +60,7 @@
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/convoychat">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
 </a>
