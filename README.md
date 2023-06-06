@@ -43,12 +43,12 @@
 
 | Stats 1 | Stats 2| 
 | --- | --- |
-|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamaashraf6)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osamaashraf6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelfoka)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noelfoka6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 | Stats 3 | Stats 4| 
 | --- | --- |
-|  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaashraf6)](https://github.com/anuraghazra/github-readme-stats)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaashraf6&layout=compact)](https://github.com/osamaashraf6)   |
+|  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelfoka)](https://github.com/anuraghazra/github-readme-stats)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelfoka&layout=compact)](https://github.com/noelfoka)   |
 
 <hr>
 
