@@ -38,50 +38,18 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  <!--![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
+  
+  <h2 align ="left">GitHub Stats</h2>
 
-<br/>
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelfoka&show_icons=true&locale=en&layout=compact" alt="noelfoka" /></p>-->
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <<source 
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: light)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-      media="(prefers-color-scheme: no-preference), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
-</a>-->
-<a href="https://github.com/anuraghazra/convoychat">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&align="left")](https://github.com/anuraghazra/github-readme-stats)
-
-<!--<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=noelfoka&" alt="noelfoka" /></p>-->
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: no-preference), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+| Stats 1 | Stats 2| 
+| --- | --- |
+|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamaashraf6)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osamaashraf6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 
 
+| Stats 3 | Stats 4| 
+| --- | --- |
+|  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaashraf6)](https://github.com/anuraghazra/github-readme-stats)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaashraf6&layout=compact)](https://github.com/osamaashraf6)   |
 
-<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true&locale=en" alt="noelfoka" /></p>-->
+<hr>
 
-
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
