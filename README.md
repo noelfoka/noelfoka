@@ -43,7 +43,7 @@
 
 | Stats 1 | Stats 2| 
 | --- | --- |
-|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelfoka)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noelfoka6&show_icons=true&theme=radical)](https://github.com/noelfoka/github-readme-stats)|
+|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelfoka)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 | Stats 3 | Stats 4| 
