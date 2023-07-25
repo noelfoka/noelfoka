@@ -72,4 +72,9 @@
 
 <hr>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<hr>
+
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am looking for new connections, any connections in the field will be welcome 😊 </em>
