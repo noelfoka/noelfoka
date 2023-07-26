@@ -9,14 +9,14 @@
 
 ### 📫 How to reach me
 
-- Email : nomgnenoel@gmail.com
+- Email: nomgnenoel@gmail.com
 - Twitter : [Nomgne-noel](https://twitter.com/noelnomgne)
 - Linkdin : [noel-foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
 - Portfolio : [noel-foka.com](https://noel-foka.netlify.app/)
 
-- 🌱 I’m currently learning full stack software development
+- 🌱 I’m currently learning full-stack software development
 
-- ❤️ I love solving algorithms, and building fun experiments.
+- ❤️ I love solving algorithms and building fun experiments.
 
 - 💻 I'm available for hire, and also open to new opportunities
 
