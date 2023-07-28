@@ -68,7 +68,7 @@
 
 | Stats 3 | Stats 4| 
 | --- | --- |
-|  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelfoka)](https://github.com/anuraghazra/github-readme-stats)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelfoka&layout=compact)](https://github.com/noelfoka)   |
+|  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelfoka)](https://github.com/anuraghazra/github-readme-stats)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelfoka&include_all_commits=false&count_private=false&layout=compact)](https://github.com/noelfoka)   |
 
 <hr>
 
