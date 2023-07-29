@@ -63,12 +63,12 @@
 
 | Stats 1 | Stats 2| 
 | --- | --- |
-|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelfoka)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+|   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelfoka)](https://git.io/streak-stats)  |   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noelfoka&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 | Stats 3 | Stats 4| 
 | --- | --- |
-|  [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelfoka)](https://github.com/anuraghazra/github-readme-stats)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelfoka&include_all_commits=false&count_private=false&layout=compact)](https://github.com/noelfoka)   |
+|  ![](https://github-contributor-stats.vercel.app/api?username=noelfoka&limit=5&combine_all_yearly_contributions=true)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelfoka&include_all_commits=false&count_private=false&layout=compact)](https://github.com/noelfoka)   |
 
 <hr>
 
