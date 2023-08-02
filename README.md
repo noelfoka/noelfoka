@@ -77,4 +77,8 @@
 
 <hr>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80" alt "type writing">
+  <br>
+
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am looking for new connections, any connections in the field will be welcome 😊 </em>
