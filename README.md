@@ -59,7 +59,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  <h2 align ="left">GitHub Stats</h2>
+  <h2 align ="left">📊 GitHub Stats</h2>
 
 | Stats 1 | Stats 2| 
 | --- | --- |
