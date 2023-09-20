@@ -20,7 +20,7 @@
 
 - 💻 I'm available for hire, and also open to new opportunities
 
-- 📰 To know about my experience [My Resume](https://docs.google.com/document/d/1y5MZgY3bSrlfq85Yjt5fMUZm5THmpVzQwna6k99W024/edit)
+- 📖 To know about my experience [My Resume](https://docs.google.com/document/d/1y5MZgY3bSrlfq85Yjt5fMUZm5THmpVzQwna6k99W024/edit)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
