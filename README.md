@@ -11,7 +11,7 @@
 
 - Email: nomgnenoel@gmail.com
 - Twitter : [Nomgne-noel](https://twitter.com/noelnomgne)
-- Linkdin : [noel-foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
+- Linkdin : [noel-foka](https://www.linkedin.com/in/noelfoka)
 - Portfolio : [noel-foka.com](https://noel-foka.netlify.app/)
 
 - 🌱 I’m currently learning full-stack software development
@@ -19,6 +19,8 @@
 - ❤️ I love solving algorithms and building fun experiments.
 
 - 💻 I'm available for hire, and also open to new opportunities
+
+- 📰 To know about my experience [My Resume](https://docs.google.com/document/d/1y5MZgY3bSrlfq85Yjt5fMUZm5THmpVzQwna6k99W024/edit)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
