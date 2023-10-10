@@ -26,7 +26,7 @@
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5?style=flat&logo=HTML5)
-  ![HTML5](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+  ![HTML5](https://img.shields.io/badge/-Ruby?style=flat&logo=ruby)
   ![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown&)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
