@@ -61,6 +61,20 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  <hr>
+
+  <h2 align="center">Certifications and Articles</h2>
+
+| Licenses & Certifications | Blog |
+| --- | --- |
+| [Ruby/Databases Module (Microverse)](https://www.credential.net/7645d3b6-baeb-40be-97f7-193f62088ac6#gs.6t8f7k) | [React Hooks to Manage Component State and Lifecycle](https://blog.numericaideas.com/react-hooks/) |
+| [React/Redux Module (Microverse)](https://www.credential.net/0fb7d708-fe92-4f2f-b759-48a162101f41#gs.6t8eta) | [Implement a data structure stack](https://www.linkedin.com/pulse/implement-data-structure-stack-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
+| [JavaScript Module (Microverse)](https://www.credential.net/9cfce9ab-3655-41c8-9571-fedb8f48b7aa#gs.6t8dps) | [The Virtual DOM in React, and How Does It Improve Performance?](https://www.linkedin.com/pulse/virtual-dom-react-how-does-improve-performance-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
+| [HTML/CSS Module (Microverse)](https://www.credential.net/9adcdb1b-9a12-45cf-b56b-a06aeacadc34#gs.2q506y) | [Differences between CSS Grid and Flexbox: When would you use one over the other](https://www.linkedin.com/pulse/differences-between-css-grid-flexbox-when-would-you-use-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
+| [Front End Development Library (freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/front-end-development-libraries) |  |
+| [Learn React: Introduction Course (Codecademy)](https://www.codecademy.com/profiles/noelfoka/certificates/1bf3e70ae92b43c2a3add66cbfaec661) |  |
+| [JavaScript Algorithms and Data Structures(freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/javascript-algorithms-and-data-structures) |  |
+| [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/joelfoka/responsive-web-design) |  |
   
   <h2 align ="left">📊 GitHub Stats</h2>
 
@@ -73,19 +87,6 @@
 | --- | --- |
 |  ![](https://github-contributor-stats.vercel.app/api?username=noelfoka&limit=5&combine_all_yearly_contributions=true)   |   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelfoka&include_all_commits=false&count_private=false&layout=compact)](https://github.com/noelfoka)   |
 <hr>
-
-<h2 align="center">Certifications and Articles</h2>
-
-| Licenses & Certifications | Blog |
-| --- | --- |
-| [Ruby/Databases Module (Microverse)](https://www.credential.net/7645d3b6-baeb-40be-97f7-193f62088ac6#gs.6t8f7k) | [React Hooks to Manage Component State and Lifecycle](https://blog.numericaideas.com/react-hooks/) |
-| [React/Redux Module (Microverse)](https://www.credential.net/0fb7d708-fe92-4f2f-b759-48a162101f41#gs.6t8eta) | [Implement a data structure stack](https://www.linkedin.com/pulse/implement-data-structure-stack-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
-| [JavaScript Module (Microverse)](https://www.credential.net/9cfce9ab-3655-41c8-9571-fedb8f48b7aa#gs.6t8dps) | [The Virtual DOM in React, and How Does It Improve Performance?](https://www.linkedin.com/pulse/virtual-dom-react-how-does-improve-performance-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
-| [HTML/CSS Module (Microverse)](https://www.credential.net/9adcdb1b-9a12-45cf-b56b-a06aeacadc34#gs.2q506y) | [Differences between CSS Grid and Flexbox: When would you use one over the other](https://www.linkedin.com/pulse/differences-between-css-grid-flexbox-when-would-you-use-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
-| [Front End Development Library (freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/front-end-development-libraries) |  |
-| [Learn React: Introduction Course (Codecademy)](https://www.codecademy.com/profiles/noelfoka/certificates/1bf3e70ae92b43c2a3add66cbfaec661) |  |
-| [JavaScript Algorithms and Data Structures(freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/javascript-algorithms-and-data-structures) |  |
-| [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/joelfoka/responsive-web-design) |  |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noelfoka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
