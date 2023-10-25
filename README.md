@@ -70,7 +70,7 @@
 | [HTML/CSS Module (Microverse)](https://www.credential.net/9adcdb1b-9a12-45cf-b56b-a06aeacadc34#gs.2q506y) | [Differences between CSS Grid and Flexbox: When would you use one over the other](https://www.linkedin.com/pulse/differences-between-css-grid-flexbox-when-would-you-use-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
 | [Front End Development Library (freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/front-end-development-libraries) |  |
 | [Learn React: Introduction Course (Codecademy)](https://www.codecademy.com/profiles/noelfoka/certificates/1bf3e70ae92b43c2a3add66cbfaec661) |  |
-| [JavaScript Algorithms and Data Structures(freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/javascript-algorithms-and-data-structures) |  |
+| [JavaScript Algorithms and Data Structures (freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/javascript-algorithms-and-data-structures) |  |
 | [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/joelfoka/responsive-web-design) |  |
 <hr>
   
