@@ -26,7 +26,6 @@
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![HTML5](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown&)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -43,10 +42,8 @@
   ![NPM](https://img.shields.io/badge/NPM-333333?style=flat&logo=npm&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-333333?style=flat&logo=nestjs&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-333333?style=flat&logo=redux&logoColor=white)
   ![React Router](https://img.shields.io/badge/React_Router-333333?style=flat&logo=react-router&logoColor=white)
-  ![React](https://img.shields.io/badge/react-333333?style=flat&logo=react&logoColor=%2361DAFB)
   ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-333333?style=flat&logo=SemanticUIReact&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-333333?style=flat&logo=vuedotjs&logoColor=%234FC08D)
   ![Webpack](https://img.shields.io/badge/webpack-333333?style=flat&logo=webpack&logoColor=black)
@@ -75,6 +72,7 @@
 | [Learn React: Introduction Course (Codecademy)](https://www.codecademy.com/profiles/noelfoka/certificates/1bf3e70ae92b43c2a3add66cbfaec661) |  |
 | [JavaScript Algorithms and Data Structures(freeCodeCamp)](https://www.freecodecamp.org/certification/Noelfoka/javascript-algorithms-and-data-structures) |  |
 | [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/joelfoka/responsive-web-design) |  |
+<hr>
   
   <h2 align ="left">📊 GitHub Stats</h2>
 
