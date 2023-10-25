@@ -75,6 +75,9 @@
 
 <hr>
 
+| Licenses & Certifications | Blog |
+| --- | --- |
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noelfoka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
