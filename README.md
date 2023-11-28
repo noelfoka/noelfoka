@@ -64,6 +64,9 @@
 
 | Licenses & Certifications | Blog |
 | --- | --- |
+|[Microverse Ruby on Rails Module](https://www.credential.net/8d55cf62-1420-4a56-a431-c77cead87855#gs.1jmeub)||
+|[MODERN WEB DESIGN](https://www.credential.net/eb0197c0-41a0-4061-b8b2-b0468e24b2d1#gs.1jmda1)| |
+|[Introduction to Git and GitHub](https://www.credential.net/9cbf6c49-8c9c-4e43-b385-958c0148ebe8#gs.1gkkmx)| |
 |   [Ruby/Databases Module (Microverse)](https://www.credential.net/7645d3b6-baeb-40be-97f7-193f62088ac6#gs.6t8f7k)   |   [React Hooks to Manage Component State and Lifecycle](https://blog.numericaideas.com/react-hooks/) |
 |   [React/Redux Module (Microverse)](https://www.credential.net/0fb7d708-fe92-4f2f-b759-48a162101f41#gs.6t8eta)   |   [Implement a data structure stack](https://www.linkedin.com/pulse/implement-data-structure-stack-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
 |   [JavaScript Module (Microverse)](https://www.credential.net/9cfce9ab-3655-41c8-9571-fedb8f48b7aa#gs.6t8dps)   |   [The Virtual DOM in React, and How Does It Improve Performance?](https://www.linkedin.com/pulse/virtual-dom-react-how-does-improve-performance-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
