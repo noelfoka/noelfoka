@@ -14,11 +14,11 @@
 - Linkdin : [noel-foka](https://www.linkedin.com/in/noelfoka)
 - Portfolio : [noel-foka.com](https://noel-foka.netlify.app/)
 
-- 🌱 I’m currently learning full-stack software development
+- 🌱 I continually learn new things along my journey
 
 - ❤️ I love solving algorithms and building fun experiments.
 
-- 💻 I'm available for hire, and also open to new opportunities
+- 💻 I'm available for new opportunities
 
 - 📖 To know about my experience [My Resume](https://docs.google.com/document/d/1y5MZgY3bSrlfq85Yjt5fMUZm5THmpVzQwna6k99W024/edit)
 
@@ -62,7 +62,7 @@
 
   <h2 align="center">Certifications and Articles</h2>
 
-| Licenses & Certifications | Blog |
+| Licenses & Certifications | Articles |
 | --- | --- |
 |[Microverse Ruby on Rails Module](https://www.credential.net/8d55cf62-1420-4a56-a431-c77cead87855#gs.1jmeub)| [React Hooks to Manage Component State and Lifecycle](https://blog.numericaideas.com/react-hooks/) |
 |[MODERN WEB DESIGN](https://www.credential.net/eb0197c0-41a0-4061-b8b2-b0468e24b2d1#gs.1jmda1)| [Implement a data structure stack](https://www.linkedin.com/pulse/implement-data-structure-stack-no%25C3%25ABl-nomgne-foka/?trackingId=ELwXU2LcRsmuytPG3l8jPA%3D%3D) |
