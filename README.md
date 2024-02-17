@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)](https://rishavchanda.io)
+![Profile LinkedIn Banner](https://github.com/noelfoka/noelfoka/assets/116439136/563fc509-f163-4864-bda3-98c6e285cb8f)
 
 <h1 align="center">Hi 👋, I'm Noel FOKA</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
