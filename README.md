@@ -1,4 +1,4 @@
-![Profile LinkedIn Banner](https://github.com/noelfoka/noelfoka/assets/116439136/563fc509-f163-4864-bda3-98c6e285cb8f)
+![Profile LinkedIn Banner](https://media.licdn.com/dms/image/D4E16AQGM6GHqL1salQ/profile-displaybackgroundimage-shrink_350_1400/0/1712843344882?e=1718236800&v=beta&t=HcggiiZnOnhUpweuAnKzcPt4PAIARBODiCOdjbFUeJ0)
 
 <h1 align="center">Hi 👋, I'm Noel FOKA</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
